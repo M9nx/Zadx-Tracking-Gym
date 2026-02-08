@@ -1,0 +1,26 @@
+=== EMAIL (DRY-RUN MODE) ===
+Timestamp: 2025-12-09T08:19:12.942655
+To: m9nx11@gmail.com
+Subject: OWNER Password Reset - Gym Management System
+---
+Hello owner,
+
+A password reset was requested for the OWNER account.
+
+Your new password is: w$!jxW=Wc9]K
+
+IMPORTANT SECURITY NOTICE:
+- Change this password immediately after logging in
+- Never share this password with anyone
+- This password was auto-generated for security
+
+If you did not request this reset, contact your system administrator immediately.
+
+Timestamp: 2025-12-09 08:19:12
+
+Best regards,
+Gym Management System
+
+---
+This is an automated security message.
+===========================
